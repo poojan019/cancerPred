@@ -50,5 +50,9 @@ python model/main.py
 ## Contributing
   Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
+## Access the website
+  Website is currently live and accessible via below link
+  https://cancerpred-lq8nue24zhmcfnbhdjefau.streamlit.app/
+
 ----------------------------------------------------------------------------------------------------------------
 NOTE: This project is for educational purposes and should not be used for actual medical diagnosis
